@@ -68,7 +68,7 @@ WebGIS ini menampilkan peta kerawanan banjir Kota Bekasi berdasarkan jarak terha
 
 ## 🌐 Demo
 
-🔗 **URL WebGIS:** `https://nama-proyek.vercel.app`  
+🔗 **URL WebGIS:** `(https://uts-web-gis-kapita-selekta.vercel.app/)`  
 
 ---
 
