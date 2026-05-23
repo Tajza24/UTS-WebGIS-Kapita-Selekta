@@ -41,7 +41,6 @@ WebGIS ini menampilkan peta kerawanan banjir Kota Bekasi berdasarkan jarak terha
 | Tinggi | 100 – 300 meter | 🟠 Oranye |
 | Sedang | 300 – 500 meter | 🟡 Kuning |
 | Rendah | 500 – 1.000 meter | 🟢 Hijau |
-| Sangat Rendah | > 1.000 meter | 🔵 Hijau Tua |
 
 ---
 
