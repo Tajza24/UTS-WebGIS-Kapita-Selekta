@@ -26,7 +26,7 @@ WebGIS ini menampilkan peta kerawanan banjir Kota Bekasi berdasarkan jarak terha
 
 | Layer | Tipe | Sumber |
 |-------|------|--------|
-| Kerawanan Banjir | Polygon | Diolah dari data OSM (buffer sungai) |
+| Badan Air | Polygon | HOT OSM Export Tool |
 | Sekolah | Point | HOT OSM Export Tool |
 | Rumah Sakit | Point | HOT OSM Export Tool |
 | Batas Kecamatan | Polygon | GADM v4.1 |
