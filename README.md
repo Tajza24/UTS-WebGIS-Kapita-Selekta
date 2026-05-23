@@ -27,8 +27,6 @@ WebGIS ini menampilkan peta kerawanan banjir Kota Bekasi berdasarkan jarak terha
 | Layer | Tipe | Sumber |
 |-------|------|--------|
 | Kerawanan Banjir | Polygon | Diolah dari data OSM (buffer sungai) |
-| Jaringan Sungai | Line | HOT OSM Export Tool |
-| Badan Air | Polygon | HOT OSM Export Tool |
 | Sekolah | Point | HOT OSM Export Tool |
 | Rumah Sakit | Point | HOT OSM Export Tool |
 | Batas Kecamatan | Polygon | GADM v4.1 |
@@ -72,7 +70,6 @@ WebGIS ini menampilkan peta kerawanan banjir Kota Bekasi berdasarkan jarak terha
 ## 🌐 Demo
 
 🔗 **URL WebGIS:** `https://nama-proyek.vercel.app`  
-📁 **Repository:** `https://github.com/username/nama-proyek`
 
 ---
 
@@ -82,11 +79,8 @@ WebGIS ini menampilkan peta kerawanan banjir Kota Bekasi berdasarkan jarak terha
 📁 webgis-kerawanan-banjir-bekasi/
 ├── 📄 index.html
 ├── 📁 data/
-│   ├── kerawanan_banjir_bekasi.geojson
-│   ├── bekasi_waterway.geojson
-│   ├── bekasi_badan_air.geojson
-│   ├── bekasi_kecamatan.geojson
-│   └── WEBGIS_UTS.geojson
+│   ├── clipping_boundary.geojson
+│   ├── WEB_GIS_2.geojson
 ├── 📁 css/
 │   └── style.css
 ├── 📁 js/
@@ -100,10 +94,10 @@ WebGIS ini menampilkan peta kerawanan banjir Kota Bekasi berdasarkan jarak terha
 
 | | |
 |---|---|
-| **Nama** | [Nama Lengkap] |
-| **NIM** | [NIM] |
-| **Kelas** | [Kelas] |
-| **Email** | [Email] |
+| **Nama** | [Raditya Tajza Indrasyah] |
+| **NIM** | [1242002081] |
+| **Kelas** | [SIF 61] |
+| **Email** | [tajza24@gmail.com] |
 
 ---
 
